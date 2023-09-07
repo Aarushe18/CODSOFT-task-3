@@ -1,0 +1,2 @@
+# CODSOFT-task-3
+CALCULATOR using HTML, CSS and JAVASCRIPT.
